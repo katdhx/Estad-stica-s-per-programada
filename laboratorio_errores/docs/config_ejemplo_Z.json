@@ -1,0 +1,22 @@
+{
+  "formato": "configuracion_prueba_z",
+  "version": 1,
+  "origen": "El costo de equivocarse: errores tipo I y tipo II",
+  "prueba": "Z para una media, sigma conocida",
+  "mu0": 0.0,
+  "mu1": -0.4,
+  "sigma": 1.0,
+  "n": 25,
+  "alfa": 0.05,
+  "tipo_prueba": "inferior",
+  "alpha": 0.05,
+  "alternative": "lower",
+  "crit": -0.3289707253902946,
+  "hipotesis_alternativa": "mu < mu0",
+  "calculados": {
+    "error_estandar": 0.2,
+    "frontera_k": -0.3289707253902946,
+    "beta_en_mu1": 0.36123996868766495,
+    "potencia_en_mu1": 0.638760031312335
+  }
+}

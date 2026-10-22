@@ -1,0 +1,9 @@
+# El costo de equivocarse: errores tipo I y tipo II
+# Probado con Python 3.13, streamlit 1.66, plotly 7.1, pandas 3.0, numpy 2.5, scipy 1.18, openpyxl 3.1
+streamlit>=1.45
+numpy>=1.26
+scipy>=1.11
+pandas>=2.2
+plotly>=5.24
+openpyxl>=3.1
+pytest>=7.4
