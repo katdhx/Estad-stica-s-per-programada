@@ -8,5 +8,5 @@ if not exist "%USERPROFILE%\.streamlit\credentials.toml" (
   echo [general]> "%USERPROFILE%\.streamlit\credentials.toml"
   echo email = "">> "%USERPROFILE%\.streamlit\credentials.toml"
 )
-python -m streamlit run app.py
+python -m streamlit run app.py --server.headless false
 pause
