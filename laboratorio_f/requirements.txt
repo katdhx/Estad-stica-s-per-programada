@@ -1,0 +1,10 @@
+# Laboratorio F: normalidad y distribución F
+# Probado con Python 3.13 y con dos juegos de versiones:
+#   streamlit 1.40.2 / plotly 5.24.1 / pandas 2.2.3 / numpy 2.1.3 / scipy 1.14.1
+#   streamlit 1.66.0 / plotly 7.1.0  / pandas 3.0.5 / numpy 2.5.3 / scipy 1.18.1
+streamlit>=1.40
+numpy>=1.26
+scipy>=1.11
+pandas>=2.2
+plotly>=5.24
+pytest>=7.4
